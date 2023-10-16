@@ -1,6 +1,8 @@
 # clouds
 Clouds is a simplistic weather app build on Expo
 
+![clouds](https://github.com/noahwhlim/clouds/assets/91938285/cfa2ec7e-2a8e-48ff-8b63-4260dd4b0010)
+
 # Instructions
 Hello! Follow these steps to get a functional version of the app.
 1. Create an account on weatherapi.com and get an API key.
